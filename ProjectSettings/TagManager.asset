@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Object
+  - Pickup
+  - Ignore
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post-Processing
+  - Water
+  - UI
+  - Weapons
+  - Player
+  - Enemy
+  - Breakables
+  - Triggers
+  - Projectile
+  - Ground
+  - Ragdolls
+  - Grass
+  - Wood
+  - Concrete
+  - Glass
+  - Plastic
+  - Sand
+  - Metal
+  - Tile
+  - Foliage
+  - Snow
+  - Gravel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
